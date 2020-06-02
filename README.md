@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://squidfunk.github.io/mkdocs-material">
-    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.png" width="320" alt="Material for MkDocs">
+  <a href="/">
+    <img src="https://raw.githubusercontent.com/learningcyber/TemplateNaminakiky/master/Naminakiky.png" width="320" alt="Material for PACE USA ">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
     A 
     <a href="https://material.io/">Material Design</a> 
     theme for 
-    <a href="https://www.mkdocs.org/">MkDocs</a>
+    <a href="/">PACE USA</a>
   </strong>
 </p>
 <p align="center">
@@ -41,8 +41,8 @@
 </p>
 
 <p align="center">
-  <a href="https://squidfunk.github.io/mkdocs-material/getting-started/">
-    <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/screenshot.png" width="700" />
+  <a href="/">
+    <img src="https://raw.githubusercontent.com/learningcyber/TemplateNaminakiky/master/Screenshot_15.png" width="700" />
   </a>
 </p>
 
@@ -50,8 +50,8 @@
   <em>
     A demo is worth a thousand words — check it out at
     <a
-      href="https://squidfunk.github.io/mkdocs-material/"
-    >squidfunk.github.io/mkdocs-material</a>.
+      href="https://demov1-learningcyberonline.blogspot.com"
+    >https://demov1-learningcyberonline.blogspot.com</a>.
   </em>
 </p>
 
